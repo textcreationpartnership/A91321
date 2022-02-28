@@ -1,0 +1,498 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The out-cries of the poor, oppressed, &amp; imprisoned; or A safe way to free the poor of this city and the whole nation of England, from begging and starving. Presented to the Council of Officers, Nov. 24. by William Pryor, and Thomas Turner. To which is annexed, A plea for the poor and helpless, against the enemies of their peace. By William Pryor.</title>
+            <author>Pryor, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91321</idno>
+            <idno type="STC">Wing P4132</idno>
+            <idno type="STC">Thomason E1010_23</idno>
+            <idno type="STC">ESTC R205529</idno>
+            <idno type="EEBO-CITATION">99864882</idno>
+            <idno type="PROQUEST">99864882</idno>
+            <idno type="VID">117114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117114)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1010[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The out-cries of the poor, oppressed, &amp; imprisoned; or A safe way to free the poor of this city and the whole nation of England, from begging and starving. Presented to the Council of Officers, Nov. 24. by William Pryor, and Thomas Turner. To which is annexed, A plea for the poor and helpless, against the enemies of their peace. By William Pryor.</title>
+                  <author>Pryor, William.</author>
+                  <author>Turner, Thomas, advocate of reform.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.D. for Francis Smith, and are to be sold at his shop, at the Elephant and Castle near Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 30"; "Nou: 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117114:1" rendition="simple:additions"/>
+            <p>THE OUT-CRIES OF THE Poor, Oppreſſed, &amp; Impriſoned; OR A ſafe WAY to free the Poor
+of this City and the whole Nation of <hi>England,</hi> from Begging and Starving. Preſented to
+the Council of Officers, <hi>Nov.</hi> 24. By <hi>William Pryor,</hi> and <hi>Thomas Turner.</hi>
+To which is Annexed, A PLEA For the Poor and Helpleſs, againſt the Enemies of their Peace.</p>
+            <p>By <hi>William Pryor.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. D.</hi> for <hi>Francis Smith,</hi> and are to be ſold at
+his Shop, at the <hi>Elephant</hi> and <hi>Caſtle</hi> near <hi>Temple-Bar,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:117114:2"/>
+            <pb n="1" facs="tcp:117114:2"/>
+            <head>THE OUT-CRIES OF THE Poor, Oppreſſed, &amp; Impriſoned; OR A ſafe WAY to free the
+Poor of this City and the whole Nation of <hi>England,</hi> from Begging and Starving.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T's ſtrange to conſider the immediate wit<g ref="char:EOLhyphen"/>neſs of <hi>Jehovah,</hi> againſt the
+injuſtice, and unrighteouſneſs of men, when declining from that which is his glory, and their
+often avowed principles, <hi>(viz.)</hi> to releive the poor and fatherleſs, the helpleſs,
+ſuch as have no might to plead their Cauſe; ſurely the ſudden changes of late multiplied,
+doth demonſtrate, that the Lord is riſen at the deep ſighs of the needy, againſt the
+<hi>Aſſyri<g ref="char:EOLunhyphen"/>an,</hi> formerly, the Rod of his anger, the vailed oppreſſor
+<pb n="2" facs="tcp:117114:3"/>that keeps pollitickly the ſpoyle of the poor, in the houſe of his
+ſervants, which makes all his prayers and ſollemne ſer<g ref="char:EOLhyphen"/>vices, an abomination to the Lord;
+that which the Lord requires, <hi>Amos</hi> 5. When he had declared, his abhorring the ſmell in
+their aſſemblies, the noiſe of their ſongs, and the mellody of their vyals: Let Judgement,
+ſaith he, run down like water, and righteouſneſs as a mighty ſtream, yea exe<g ref="char:EOLhyphen"/>cute, ſaith
+he, true Judgment, and ſhew mercy, and oppreſſe not the widdow nor the fatherleſs, the
+ſtranger nor the poor; the faſt that God requires is to looſe the bands of wickedneſs, to
+undoe the heavy burthens, and to let the oppreſſed go free; to break every yoake, to feed the
+hungry and cloath the naked: Hath not the great <hi>Jehovah</hi> often ſaid it in the Scripture
+of truth, that all Sacrifices and ſervices, without theſe are an abomination to him? hath not
+oppreſſion been the cauſe of all changes? was it any thing but oppreſſion, that turned
+out the Biſhops, and all that Hierarchy? yea, hath it been any thing but the complaint of
+oppreſſion, the want of impartiall juſtice, that hath been ſounded forth, in the
+oppreſſeds eares, as the argument for all changes that hath been ſince. Oh how have they been
+often filled with hopes of releife, that have been many years bound in chaines of tyranny, by
+ſuch alarums, why ſhould deferred hope make the poor and helpleſs ſick unto death? they
+have often cried this many yeares, to thoſe that have called themſelves Miniſters of
+juſtice, of all degrees below Parliaments, and to Parliaments, themſelves, but all void of
+bowells of com<g ref="char:EOLhyphen"/>paſſion to the hungry oppreſſed, forgetting the afflictions of
+<hi>Joſeph,</hi> while they are in there delicate injoyment with wine in bowles, ſurely their
+cries have gone up to heaven, in this laſt change, in breaking the reines of all Government; Is
+not the Lord now eminently a trying the Officers of the Army, whether they will perform their
+vowes, in breaking every yonk which Magiſtrates of all degrees contrary to their oaths have
+neglected, yea doth not the poors ſtraights, &amp; their own ſtraights both cry aloud to this
+work, as one deep to another? is not the work of <hi>Jehovah,</hi> now before them, hath not
+pro<g ref="char:EOLhyphen"/>vidence prepared it for them, is there any thing to be done
+<pb n="3" facs="tcp:117114:3"/>on their parts but confirmation? And hath not the Lord miraculouſly, put power
+into their hands to do it? hath he given them power to Rout Parliaments, to change Cuſtomes, to
+null Laws, to create &amp; null Protectors, to create Councils, to communicate power, to make Lawes
+paramount? and have they not power, to releive the poor and oppreſſed? will not the pleading
+the want of power, be concluded by all unbyaſſed men, a mocking of God and his People, a
+ſlight<g ref="char:EOLhyphen"/>ing his Providences, a contemning of Gods prize, neglecting his Temple work, in
+conſidering and relieving his Poor? Oh that they would now conſider in this their day, the
+things that belong to their peace, before God ariſe againſt them, as a man of War, as againſt
+thoſe before them, for turning Judgement into Wormwood: Oh that they would conſider what
+admirable Effects the confirmation of that one Bill now before them would produce.</p>
+            <p n="1">1. By it all Priſons would be turned into Work-houſes, for the Poor that are now ready
+to periſh.</p>
+            <p n="2">2. By it Felons would not be unrighteouſly puniſhed be<g ref="char:EOLhyphen"/>fore judgment &amp; conviction,
+beſides prevent many Fellonies.</p>
+            <p n="3">3. Unjuſt Imbeſſellors of the Poors Stock, would receive exemplary juſtice.</p>
+            <p n="4">4. The Revenues and Gifts, already imbeſſelled and de<g ref="char:EOLhyphen"/>tained, will raiſe a
+ſufficient common Stock, to imploy thoſe, Poor that are able to work, that are now ready to
+periſh.</p>
+            <p n="5">5. The ſtanding Revenues of the ſeveral Priſons, will maintain many hundred of Poor
+aged and decripped Perſons that are not able to work.</p>
+            <p n="6">6. The corrupt Impowering of Maſters of Hoſpitals, to Let ancient Donations upon their
+original Rent; and their large Fines into their own pockets, to the defrauding of the Poor, will be
+avoyded thereby.</p>
+            <p n="7">7. The Rents properly belonging to the Poor, will be Re<g ref="char:EOLhyphen"/>ſtored, and Reinſtated.</p>
+            <p n="8">8. The Moneys due upon ancient Donations, unjuſtly de<g ref="char:EOLhyphen"/>tained, will raiſe ſuch a
+common Stock, as will ſet all the Poor in the ſeveral Counties a work that are able.</p>
+            <p n="9">
+               <pb n="4" facs="tcp:117114:4"/>9. The Increaſe of the Revenues belonging to the ſeveral Hoſpitals of
+<hi>England,</hi> being raiſed to their true value, will maintain all thoſe Poor that are not
+able to work, beſides what are maintained at preſent.</p>
+            <p n="10">10. By it ſtarving of Debtors in priſon, and the ruin of their Families, to the
+defrauding of their Creditors, would be avoyded, and the Channel of Juſtice opened, that they
+that do wrong, may receive for that wrong without reſpect of perſons. Oh that it was in the
+Officers hearts to reſolve and fix in this good Work, that the God of Juſtice may delight to
+dwell amongſt them, and write upon them his Sentance of Righteouſneſs, when their breaſts
+are manifeſted to be the habitation of goodneſs and compaſſion to the hungry and
+oppreſſed; the ſprings of the Lord will appear amongſt them, and they will be called the
+Repairers of the Breaches, the Re<g ref="char:EOLhyphen"/>ſtorers of paths to dwell in, and the Servants of
+<hi>Jehovah</hi> will be their Sanctuary, when the Lords Righteouſneſs goes be<g ref="char:EOLhyphen"/>fore them, his
+glory will be their Rereward; then will the People of the Lord be encouraged to fight for them, and
+he by his eternal Covenant, will be engaged to be their Leader, then all their undertakings will be
+proſperous, when the bow<g ref="char:EOLhyphen"/>els of the Poor are refreſht; and we the poor Servants (for the Lords
+ſake) ſhall be engaged to bleſs the Lord for them, and engage with them, to the hazzard of
+all that is near and dear unto us.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>William Pryor. </item>
+                     <item>Thomas Turner.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:117114:4"/>
+            <head>A PLEA For the Poor and Helpleſs, againſt the Enemies of their Peace.</head>
+            <p>IT's marvellous to conſider the working of men againſt the deſign of God in this laſt
+age of the World, now Chriſt is ſmiting the Image of the beaſt on the feet, what ſtumbling
+blocks the Emiſſaries of the man of Sin, the Adverſary to Truth and Peace caſts in the way
+of the People of God? into whoſe hearts God hath put it to fullfil his will, that if poſſible
+they may be either induced to a confederacy with thoſe that God hath appointed to utter ruin, or
+elſe laying before them the want of Power.</p>
+            <p>I ſhall for brevity-ſake take it for granted, that it's Gods great deſign to ſmite the
+Image of the Beaſt in pieces.</p>
+            <p>Now the Particulars conſiderable are.</p>
+            <p>Firſt, What the Image of the Beaſt is in general.</p>
+            <p>Secondly, To define by the Scriptures of Truth, it's Par<g ref="char:EOLhyphen"/>ticular branches.</p>
+            <p>Thirdly, To demonſtrate how they are to be broken, and by whom.</p>
+            <p>In Anſwer to the firſt of theſe, what the Image of the Beaſt is in general. Theſe
+particulars are conſiderable:</p>
+            <p>Firſt, what the Beaſt is.</p>
+            <p>Secondly to define the word Image.</p>
+            <p>
+               <pb n="6" facs="tcp:117114:5"/>Thirdly to anſwer the Queſtion.</p>
+            <p>Firſt, The Beaſt is the ſeveral Rulers of the World, that keeps man in ſubjection
+contrary to the rules of Chriſt Jeſus: this might be demonſtrated by a Cloud of
+witneſſes, <hi>denying Chriſt to be only Lord,</hi> Jude 4. For <hi>which the Jews was
+de<g ref="char:EOLhyphen"/>ſtroyed in the Wilderneſs after delivered out of Egypt,</hi> verſ. 5. And <hi>the Angels
+reſerved in chains of darkneſs,</hi> verſ. 6. The <hi>Prieſts for changing the Ordinances
+of the Lord,</hi> Mal. 1.6 are <hi>made contemptible and baſe,</hi> Chap. 2. verſ. 9. Such
+<hi>are compared to Brute Beaſts,</hi> by Jude, verſ. 10.</p>
+            <p>From all which I thus reaſon, that thoſe that deny Chriſt Jeſus to be the King of Kings,
+and Lord of Lords, are Beaſts: But thoſe that leave the Laws of Jeſus, and eſtabliſh
+their own fancies for Laws, and compel ſubjection thereto, denies Chriſt Jeſus to be King of
+Kings, and Lord of Lords: Therefore they that leave the Laws, of Jeſus and eſtabliſh their
+own, and compel ſubjection thereto, are Beaſts. And thoſe Beaſts in conjunction in their
+own Laws, againſt the Laws of Jeſus, compleat the power of that Beaſt that aſcen<g ref="char:EOLhyphen"/>ded out of
+the bottomeleſs Pit, ſpoken of, <hi>Revel.</hi> 13.</p>
+            <p>Secondly, For the word Image, it hath only one gene<g ref="char:EOLhyphen"/>ral ſignification in Scripture, it
+ſignifies Ruling, or command<g ref="char:EOLhyphen"/>ing; ſee a proof of this, <hi>Gen.</hi> 1.26. <hi>Let us make man
+in our Image, ſaith the Lord:</hi> and in the next words demonſtrates how, (viz.) <hi>Let him
+Rule, or have Dominion over all Crea<g ref="char:EOLhyphen"/>tures,</hi> &amp;c. <hi>Daniel</hi> interprets the word Image
+ſo, <hi>Chap.</hi> 2.38. <hi>Chriſt is ſaid to be the expreſs Image of the Father, Ruling
+all things,</hi> &amp;c. So that the Anſwer to the Queſti<g ref="char:EOLhyphen"/>on is plain before us to all
+unbyaſſed underſtandings, that the Image of the Beaſt in general, is all thoſe Laws that
+are eſta<g ref="char:EOLhyphen"/>bliſhed by the Beaſtly Powers of the world, that are oppo<g ref="char:EOLhyphen"/>ſite to the Laws of God
+and of his Chriſt, by the eſtabliſh<g ref="char:EOLhyphen"/>ment of which Laws the Kingdomes of this World, are
+ſaid to he the Kingdomes of men, Ruled by mens Laws, admi<g ref="char:EOLhyphen"/>niſtred by Miniſters of mens
+appointing, ſuch as are ready to ſerve their wills, and luſts, by which the poor are
+tramp<g ref="char:EOLhyphen"/>led on, and periſh as at this day, and Juſtice is turned away backward, and truth
+faileth, and he that ſeeks after Juſtice,
+<pb n="7" facs="tcp:117114:5"/>makes himſelf a prey, and the <hi>Aſſyrian,</hi> the politick vailed
+oppreſſor by heatheniſh inſtitutions is upheld in his oppreſſi<g ref="char:EOLhyphen"/>on, &amp;c. by means of
+which the poor of the Lord are expoſed to woful miſeries, ſome ſtarved to death in their
+houſes for want of bread, others in the ſtreets for want of harbor, and others periſh in
+priſon, and ſome rather than expoſe them<g ref="char:EOLhyphen"/>ſelves to politick fury of heatheniſh
+inſtruments and inſtituti<g ref="char:EOLhyphen"/>ons, chooſe rather to leave their native country and ſell
+themſelves ſlaves into remote parts; me-thinks the conſide<g ref="char:EOLhyphen"/>ration of theſe ſhould make
+hearts of flint relent. But to pro<g ref="char:EOLhyphen"/>ceed to the ſecond generall, <hi>(viz.)</hi> What the
+particular branches of this Image is? Anſwer, the Scripture concludes it in theſe four heads,
+<hi>(viz.)</hi> Kingdome, Power, Strength, and Glory. I ſhall in the ſtrength of the moſt
+high,</p>
+            <p>Firſt, demonſtrate in part what we may underſtand by theſe branches diſtinct.</p>
+            <p>Secondly, how they run parallel with the Kingdome, pow<g ref="char:EOLhyphen"/>er, ſtrength, and glory of the
+World.</p>
+            <p>Thirdly, demonſtrate how they are againſt Chriſt.</p>
+            <p>Fourthly, demonſtrate them to be the cauſe of all Tyranny, Theft, Murder, and Animoſity:
+Of theſe in order; and,</p>
+            <p>Firſt, what we may underſtand by Kingdome in a Scrip<g ref="char:EOLhyphen"/>ture account. Anſwer, <hi>Kingdome,
+is a people in ſubjection to a Superiour, be they few or many;</hi> and hence it is that ſuch a
+Superiour is ſaid in a Scripture ſenſe to be a King; the Kings of the earth ſtood up, the
+Rulers took Counſel toge<g ref="char:EOLhyphen"/>ther: there Kings and Rulers are terms convertible, he thats a King is a
+Ruler, and he thats a Ruler is a King, and the parties under their Rule are their Kingdome; this
+being plain to every common capacity, I ſhall wave it and proceed to Power: what that is?
+Anſwer, <hi>it is command, ordinance, law, or commiſſion;</hi> by which the Kings, or
+Beaſtly Magiſtrates, or Miniſters of the World, Rule their Kingdomes contrary to the
+Statutes, Laws or Ordinances of God, which are the higher Powers, <hi>Rom.</hi> 13.1. To which all
+ought to be ſub<g ref="char:EOLhyphen"/>ject, and for not ſubjecting, receives to themſelves condem<g ref="char:EOLhyphen"/>nation, or
+Judgment, as at this day: from whence come warrs, ſaith the Apoſtle, is it not from mens own
+luſts, being led
+<pb n="8" facs="tcp:117114:6"/>away from the pure Laws of God, to the Laws of men, that are to periſh in the
+uſing, Col. 2.22. Whence obſerve by the way, <hi>That obſerving the Laws of man inſtead of
+the Laws of God, is the cauſe of Warrs, Contention, Condemnation and Judgment.</hi>
+            </p>
+            <p>Thirdly, What we may underſtand by the ſtrength of this Image.</p>
+            <p>
+               <hi>Anſwer. It is a ſutable ability to force ſubjection to their Wills, Laws, or Edicts,
+within their Juriſdictions, or Terri<g ref="char:EOLhyphen"/>tories;</hi> this is viſible in the Beaſt,
+<hi>Revel.</hi> 13.12. In cauſing the Earth and them that dwell therein, to worſhip the firſt
+Beaſt, by forcing ſubjection to his Laws, Exerciſing all the firſt Beaſts Power, or Laws,
+Blaſpheming the Authority of God, his Tabernacle, and Worſhipers, making Warr with his Saints,
+<hi>Revel.</hi> 13.6, 7.</p>
+            <p>Laſtly, The glory of this Image, is; <hi>their people, or Vaſſals, ready ſubjecting to
+their Laws or Commands.</hi> Solomon ſayes, <hi>the glory of young men is their ſtrength;</hi>
+and this ſtrength united, in ready and cheareful ſubmiſſion to the Laws or Com<g ref="char:EOLhyphen"/>mands of
+their Kings, is their Glory. How wonderful is this manifeſted in the Kingdoms of men, at this
+day? what glory<g ref="char:EOLhyphen"/>ing is there in Superiors, when their Vaſſals are in ſubjection, and what
+cruelty on the contrary is exerciſed, when their wills are croſt?</p>
+            <p>Now I ſhall only take a view of the particular Branches, And then proceed to a
+demonſtrating, how they run parallel with the Kingdome, Power, Strength, and Glory of the World
+at this day.</p>
+            <p>Firſt then, we may learn, that the Beaſts Kingdom, is peo<g ref="char:EOLhyphen"/>ple Subjecting to the Kings of the
+Earth, in Counſel againſt Chriſt Jeſus, the King of Kings.</p>
+            <p>Secondly, That the Beaſts Power is the Laws of the Kings of the Earth, contrary to the
+Statutes, Laws, and Ordinances of God and of his Chriſt.</p>
+            <p>Thirdly, The Beaſts ſtrength is his ability, to force Sub<g ref="char:EOLhyphen"/>jection to his Laws, to the
+Blaſpheming the Authority of God and his Tabernacle, and his Worſhipers, and to make Warr with
+the Saints.</p>
+            <p>
+               <pb n="9" facs="tcp:117114:6"/>Fourthly, The Beaſts glory, is peoples ready and volluntary Subjection to his
+Laws and Statutes.</p>
+            <p>Now a few words, how the Kingdome, Power, Strength, and Glory of the world run parallel with the
+particular Bran<g ref="char:EOLhyphen"/>ches of the Beaſts Image. Conſider I pray, is not the Kings of the Earth, now
+in conſultation againſt the Lord and his Chriſt, how they may hold up their Scepters by
+ſtaving off his Scepter of Righteouſneſs? Oh what ſtriving is there by men of all degrees
+(though the Reines of all Government be bro<g ref="char:EOLhyphen"/>ken) ſtill, to keep up the power or Laws of the
+former Beaſts? who is there that appears for the Laws that admini<g ref="char:EOLhyphen"/>ſter Right to the poor, equal
+with the Mighty? are not Ru<g ref="char:EOLhyphen"/>lers of all degrees taking Counſel together to make up a Model of
+Government anſwerable to there fancies, ſome for <hi>Holland,</hi> other for <hi>Venus,</hi>
+but a few for the Laws of King Jeſus, though often ſolemly engaged thereto with hands lift<g ref="char:EOLhyphen"/>ed
+up to the Moſt High? how active are Prieſts, and Lawyers of all degrees againſt, taking away
+their <hi>Dianah,</hi> by which they have their Wealth? how do thoſe Locuſts, and
+Catter<g ref="char:EOLhyphen"/>pillars that live upon <hi>Simmony,</hi> and the ſins of the people, ſtrive to caſt
+ſtumbling-blocks in the way of thoſe, whoſe hearts the Lord hath toucht with his work in
+hand, in razing the Foundations of <hi>Babylon,</hi> and filling to her, double the Cup of his
+Indignation? Yea, how is the beaſtly ſtrength of the world exerciſed even at this day
+againſt God, againſt Chriſt, againſt his Poor? why is it that the releiving the poor, and
+oppreſſed, ſticks ſo much in the Birth, is it not be<g ref="char:EOLhyphen"/>cauſe the Heatheniſh
+Inſtitutions, and Miniſters are in the way? why ſhould the Rulers of the World be ſo
+backward in ſubmitting to the higher Powers, the Commands of God; is it not becauſe they love
+the praiſe of men more then God? Oh that the gods of the World would in time conſider, how
+little ſtead thoſe broken Reeds, on whom they now lean, will ſtand them in, when they ſhall
+come to die like men? will they not then repent there Blaſpheming of the Authority of God, by
+keeping up an Authority of man, ſhaking hands with the deceivers of his people, prophaning his
+Tabernacle thereby, and his Worſhipers, to the involving of his Saints in
+<pb n="10" facs="tcp:117114:7"/>Warr; yea, is not the ſelf ſame beaſtly glory viſible even to any
+unprejudiced Eye? how willing are men of all degrees, ſtill to be Subject to the fore mentioned
+beaſtly Powers of the World; pretend to be Chriſtians, and yet Traytors to Chriſts Laws, is
+ſad Chriſtianity.</p>
+            <p>Thirdly, The antipathy beween the Laws of God, and of Chriſt; <hi>and the Powers of the man of
+ſin,</hi> is thus manifeſ<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Firſt, The Laws of God and of Chriſt ſayes, <hi>pervert not the judgment of any of the
+Afflicted,</hi> Prov. 31.5.</p>
+            <p>The Laws of the Beaſts of the World juſtifies the wicked for a reward, and takes away the
+righteouſneſs of the righ<g ref="char:EOLhyphen"/>teous from them.</p>
+            <p>Secondly, the Laws of God ſayes, <hi>Open thy mouth wide, for the dumb, in the cauſe of all
+ſuch as are appointed to deſ<g ref="char:EOLhyphen"/>truction, and plead the cauſe of the poor and needy,</hi> Prov.
+31.8, 9.</p>
+            <p>The beaſtly Laws of the World, opens the mouth wide, for thoſe that have a large purſe to
+plead their Cauſe, whilſt the poor are ſent empty away.</p>
+            <p>Thirdly, The Royal Laws of God ſayes, <hi>Looſe the band of wickedneſs, undoe the heavy
+Burthens, and let the oppreſſed go free, and break every yoak.</hi>
+            </p>
+            <p>The beaſtly Laws of the world, continues the wickeds bands, the heavy burthens, &amp; makes
+the oppreſſeds yoak heavier by the extorting fees of Lords, Counſellors, Attornies, Clarks,
+Criers, Summoners, Sheriffs, Jailers, <hi>&amp;c.</hi> The Laws of God ſayes, <hi>Deal thy Bread
+to the hungry, and bring the poor that are caſt out into thy houſe, and cloath the naked, and
+hide not thy ſelf from thy own fleſh.</hi>
+            </p>
+            <p>The beaſtly Powers of the World, feeds the Rich with deli<g ref="char:EOLhyphen"/>cates, whileſt the poor periſh
+for lack of Bread, take in the Rich for jollity ſake, whilſt the poor periſh in the
+ſtreets; cloath their Aſſociates with Silk, Purple, and Scarlet, with Gold and Precious
+things, whilſt the poor for lack of cloath<g ref="char:EOLhyphen"/>ing periſh; yea, is not the poor their own fleſh,
+what devices is now amongſt the great ones of the World to avoid the hearing the cryes of the
+poor?</p>
+            <p>
+               <pb n="11" facs="tcp:117114:7"/>The Laws of God ſayes; <hi>Thou ſhalt not deſpiſe the Perſons of the
+poor, nor honour the Perſons of the Mighty,</hi> Levit. 19.</p>
+            <p>I need not demonſtrate, how contrary to this royal Law of <hi>Je<g ref="char:EOLhyphen"/>hovah,</hi> the beaſtly
+Miniſters of the Powers of the world Act, how is the poor and the poors Cauſe deſpiſed? how
+are they deſtroyed by delatory promiſes, and delayes of Juſtice, and there poor In<g ref="char:EOLhyphen"/>nocents
+expoſed to the mercileſs cruelty of the ungodly, and their poor Parents ſtarved in Priſon,
+whilſt the Perſons of the Mighty are honoured, (I had almoſt ſaid worſhiped) with bowing
+and cringing Idolatry; the time would faile me to demonſtrate in how many particulars the
+beaſtly Powers of the world are in di<g ref="char:EOLhyphen"/>rect oppoſition, to the royal Laws of <hi>Jehovah;</hi>
+and the poor, whilſt promiſed liberty from chains of Tyranny, are made ſick unto death, with
+differred hopes, <hi>&amp;c.</hi>
+            </p>
+            <p>I ſhall ſpeak a few words in demonſtrating the fourth Particular, ariſing from the
+Branches of the Image of the Beaſt, <hi>(viz.)</hi> That they are the cauſe of all Tyranny,
+Theft, Murder, and Animoſſi<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Firſt, That they are the cauſe of Tyranny, is manifeſted in theſe Particulars.</p>
+            <p>Firſt, In creating themſelves Lords over the Lives, Liberties, Eſtates, and Conſciences
+of their Vaſſals, the only deſign of the Kings of the earth.</p>
+            <p>Secondly, Making Laws anſwerable to their wills, or deſires.</p>
+            <p>Thirdly, Forcing Subjection.</p>
+            <p>This is the natural product of the Kings of the earth, in Council againſt the Lord, and
+againſt his Annointed, eſpecially when ac<g ref="char:EOLhyphen"/>companied with Kingdome, Power, Strength, and Glory,
+by ma<g ref="char:EOLhyphen"/>king themſelves Lords over the lives of people, they ſtir up to Warr, to ſatisfie their
+Luſt, in inlarging their Territories.</p>
+            <p>Secondly, by making themſelves Lords over the Liberties of their Vaſſals, they come to
+fill their Priſons, by which men are ex<g ref="char:EOLhyphen"/>poſed to miſery and want, which is the cauſe of
+Theft, eſpecially by thoſe that have been two highly educated, and maintained, to dig, and to
+begg they are aſhamed, who rather then ſtarve, fall to ſtealing, which many times begets
+murther, eſpecially in hot ſpirits that will rather kill then be taken.</p>
+            <p>But further, the beaſtly Rulers of the World, when they have
+<pb n="12" facs="tcp:117114:8"/>brought men into miſery, and want, by Tyranny; becauſe they will be in
+direct oppoſition to the royal Law of <hi>Jehovah,</hi> of reſtoring four-fold; they make a
+Law, that if men ſteal they ſhall be hang<g ref="char:EOLhyphen"/>ed, ſo they neceſſitate them to ſteal by
+Tyranny, and then hang them for it, and this begets anymoſity; ſecret hatred, ſeeking for
+reveng; the product of which is murder; thus are the beaſtly Ma<g ref="char:EOLhyphen"/>giſtrates or Miniſters of the
+World, exerciſing their own beaſt<g ref="char:EOLhyphen"/>ly powers, or Laws, contrary to the Laws of God, and of his
+Chriſt, manifeſted to be the chief original cauſe of Tyranny, Theft, Murther, and
+Anymoſity.</p>
+            <p>And ſo I come to the third general, how theſe beaſtly Powers of the world, are to be
+broken, &amp; by whom, and for what? Firſt, now they are to be broken? Anſwer, by the
+advancement of the Laws, and Statutes of King Jeſus, which ſhall be for a Standard for his
+people, by which Judgment will be laid to the line, and righteouſneſs to the plummet, when the
+Kings of the aerth ſhall be aſhamed, <hi>Iſa.</hi> 52.15. And the refuge of lies
+diſcovered, by the brightneſs of the appearing of Jeſus, when all creatures ſhall be tryed
+by the Spirit of Judgment, and burning; the Lord hath ſaid it; for as much as the people refuſe
+the waters of <hi>Shiloh,</hi> or the pure undefiled Laws of <hi>Jehovah,</hi> and rejoyce in
+<hi>Rezin</hi> and <hi>Remelia's</hi> Son, the original authors of Laws oppoſite to the Laws of
+God; therefore the Lord hath ſaid it, he will bring the <hi>Aſſiryan</hi> ſcourg even upon
+them that profeſs themſelves to be his own people, and it ſhall overflow and go over, and
+fill the breadth of the Land of <hi>Immanuel;</hi> and he gives this reaſon, becauſe his people
+ſay a confederacy with thoſe that God would not have them ſay a confederacy; God hath
+determined to deſtroy <hi>Babylon</hi> head and tayle; branch and root, but they would preſerve
+the gleaning of the vintage, ſome of the faireſt daughters of Anti<g ref="char:EOLhyphen"/>chriſt, the fineſt
+ſpun Lawyers and Prieſts, and their choyſeſt Laws: Oh that thoſe into whoſe hearts
+&amp; hands, God hath put it to ful<g ref="char:EOLhyphen"/>fil his will, would be cautioned to take heed of ſaving that
+alive, which God hath appointed to utter deſtruction: remember <hi>Saul</hi> ſaving
+<hi>Agag,</hi> &amp;c. Conſider the word of the Lord by the Prophet <hi>Iſa. Chap.</hi> 8. and
+ſee whether the Lord doth not come home to you that are a making an agreement with the brats of
+<hi>Babylon,</hi> the ſworn enemies of Chriſt: he tels you three times o<g ref="char:EOLhyphen"/>ver, <hi>verſ.</hi>
+9. <hi>Ye ſhall be broken in pieces, and your Counſel with
+<pb n="13" facs="tcp:117114:8"/>them ſhall come to nought, for the Lord hath yet a people, that have not
+defiled their garments, with whom God is,</hi> verſe 10. <hi>That will not ſay a confederacy
+with Babylon, but ſanctifie the Lord of hoſts himſelf, according to his commandment,</hi>
+verſ. 12, 13. <hi>For the Lord of hoſts will now aſſuredly be a ſanctuary to his
+ſervants, and a ſtone of ſtumbling to thoſe that ſtumble at his Laws, and many will
+ſtumble and fall, and be taken and ſnared, by ſeeking the li<g ref="char:EOLhyphen"/>ving amongſt the dead; not
+going to the Law and Teſtimony of</hi> Jehovah <hi>for direction.</hi>
+            </p>
+            <p>So that the anſwer to the firſt part of the Queſtion is plain, that God will deſtroy the
+Beaſtly Powers of the world, by the advan<g ref="char:EOLhyphen"/>cing the Laws and Statutes of his Son, and confounding
+all Coun<g ref="char:EOLhyphen"/>cils, and actions to the contrary.</p>
+            <p>The next particular conſiderable is, by whom the beaſtly pow<g ref="char:EOLhyphen"/>ers are to be deſtroyed? This
+is anſwered, <hi>Revel.</hi> 17.14. By the Lamb and his faithful ones with him, who are to
+accompliſh their work upon <hi>Babylon,</hi> according to the voyce from heaven, <hi>Rev.</hi>
+18.6. To <hi>give her double according to her works; as ſhe hath li<g ref="char:EOLhyphen"/>ved delicately, and faired
+deliciouſly, ſo much torment and ſorrow give her.</hi>
+            </p>
+            <p>The faithful of <hi>Jehovah</hi> are to accompliſh this work upon <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> with the
+high praiſes of God in their mouths, and a two edged ſword in their hands, to execute upon
+Kings and their peo<g ref="char:EOLhyphen"/>ple, the judgment written: This is the propheſied of honour, of the Saints of
+Jeſus, not ſuch as are Saints according to the faſhi<g ref="char:EOLhyphen"/>ons of the world, but in
+ſubſtance.</p>
+            <p>I ſhall only take notice of one thing more, that is, for what the great <hi>Jehovah</hi> wil
+break the Beaſtly Fabrick of <hi>Babylon</hi> to pieces, and deſtroy it root and branch. The
+anſwer is general, <hi>Revel</hi> 18.5. <hi>For her ſins reached unto heaven, and God hath
+remembred her iniquities; Therefore woe unto them for their unrighteous decrees and grievous
+preſcriptions, by which the needy are turned away from judgment, and the poor from their right,
+and the widdows made a prey, and the fatherleſs robbed,</hi> Iſa. 10.1, 2. <hi>Ye tread upon
+the poor by taking from them burthens of Wheat; Therefore ſaith the Lord, ye ſhall not dwell in
+your built houſes of hewen ſtone, nor eat the fruit of your pleaſant Vineyards; for I know,
+ſaith the Lord,</hi> Amos 5.12. <hi>your manifold Tranſgreſſions, in afflicting the
+<pb n="14" facs="tcp:117114:9"/>juſt, in taking of bribes, &amp; turning aſide the poor from their right,
+the Lord hath ſaid it,</hi> Amos 8. <hi>The end is come, when the needy are ſwallowed up, to
+make the poor of the Land to fail; when the rich by conſent ſhall make the Ephah ſmall, and
+the Shekel great, and falſe Ballances, that they may buy the poor for ſilver, and the needy for
+a pair of ſhooes; The Lord hath ſworn by the excellency of</hi> Jacob, <hi>he will never forget
+their works.</hi> Alas, alas, is not this end come upon us here in <hi>England?</hi> Oh
+<hi>England</hi> is not thy poor become a prey to all the Beaſts of the field? Is hot the doleful
+cry in priſon and out of priſon, in all Cities, and all corners of the ſtreets, Bread, Bread,
+Bread for the Lords ſake? And is not the Lord generally out of credit amongſt men? the poor
+ſigh and la<g ref="char:EOLhyphen"/>ment their wants, die for want of Bread, are ſtarved for want of Cloathing, and who
+is it that layes it to heart? Though the Lord hath <hi>ſworn it, he will ſurely avenge him of
+their adverſary, and plead the cauſe of the poor:</hi> Shal not the Land tremble when God
+ariſeth? Surely, if his wrath be kindled to action, as moſt certain<g ref="char:EOLhyphen"/>ly it is, happy are all
+they that put their truſt in him. Now that the God of Juſtice in this his day of viſitation,
+would direct all thoſe that ſet their faces Zion-ward, whether Shrubs, or Ce<g ref="char:EOLhyphen"/>dars, that they
+may neither tranſgreſs on the right hand, in going beyond their bounds, nor on the left hand,
+by a ſinful compliance, is the earneſt prayer, and fervent deſire, of</p>
+            <closer>
+               <signed>
+                  <hi>The unworthieſt of the Lords Servants, and the Poors Servant, for the Lords
+ſake.</hi> William Pryor.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
